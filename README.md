@@ -3,7 +3,7 @@
 <h1>Bumblebee</h1>
 <h3>Surpassed Close-Source Models: A Breakthrough in Open-Source Advancements</h3>
 <p align="center">
-  weights  <a href="https://huggingface.co/openbmb/MiniCPM-V-2/">🤗</a> | <a href="https://openbmb.vercel.app/minicpm-v-2-en"> wechat group </a> | <a href="https://github.com/MonolithFoundation/Bumblebee"> code </a>
+  weights  <a href="https://huggingface.co/MonolithFoundation/Bumblebee">🤗</a> | <a href="https://github.com/MonolithFoundation/Bumblebee/issues/1"> wechat group </a> | <a href="https://github.com/MonolithFoundation/Bumblebee"> code </a>
 </p>
 
 </div>
