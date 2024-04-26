@@ -22,6 +22,8 @@ We have released the weights solely for research purposes, with the hope of acce
 
 ## News
 
+- _2024.04.26_: **Bumblebee** had updated to MMBench leaderboard!
+  ![](assets/board.jpg)
 - _2024.04.25_: First version **Bumblebee** droped;
 
 ## Results
