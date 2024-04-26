@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/04/26_12_15_23_3364490-1.png" />
+<img src="assets/a.png" />
 <h1>Bumblebee</h1>
 <h3>Surpassed Close-Source Models: A Breakthrough in Open-Source Advancements</h3>
 <p align="center">
@@ -56,7 +56,7 @@ The results clearly indicate that Bumblebee has achieved remarkable progress com
 ## Demo
 
 Impressive showed by Bumblebee:
-![](https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/04/26_12_16_47_bumblebee.drawio.png)
+![](assets/res.png)
 
 
 
