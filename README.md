@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/04/26_11_11_15_-3364490-2.png" />
 <h1>Bumblebee</h1>
 <h3>Surpassed Close-Source Models: A Breakthrough in Open-Source Advancements</h3>
 <p align="center">
@@ -52,6 +52,15 @@ The results clearly indicate that Bumblebee has achieved remarkable progress com
    cd Bumblebee
    ```
    Using MGM like inference code to inference, make sure loading correct vision encoder pretrained weights. (to be added)
+
+## Demo
+
+Impressive showed by Bumblebee:
+![](https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/04/26_12_4_9_bumblebee.drawio.jpg)
+
+
+
+
 
 ## Future Plan
 
