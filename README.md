@@ -55,11 +55,20 @@ The results clearly indicate that Bumblebee has achieved remarkable progress com
 
 ## Demo
 
-Impressive showed by Bumblebee:
+Impressive Chinese results showed by Bumblebee:
 ![](assets/res.webp)
 
 
+As the result suggested, **Bumblebee** might be one of the most capable Chinese MLLM opensourced as for now.
 
+It shows good abilities at:
+
+- OCR understanding;
+- Reasoning;
+- Table and Graphic comprehension;
+- Math calculate;
+
+If want try it, just download our weights and inference via MGM!
 
 
 ## Future Plan
