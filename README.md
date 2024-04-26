@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/04/26_11_11_15_-3364490-2.png" />
+<img src="https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/04/26_12_15_23_3364490-1.png" />
 <h1>Bumblebee</h1>
 <h3>Surpassed Close-Source Models: A Breakthrough in Open-Source Advancements</h3>
 <p align="center">
