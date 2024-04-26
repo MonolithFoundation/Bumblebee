@@ -56,7 +56,7 @@ The results clearly indicate that Bumblebee has achieved remarkable progress com
 ## Demo
 
 Impressive showed by Bumblebee:
-![](assets/res.png)
+![](assets/res.webp)
 
 
 
