@@ -56,7 +56,7 @@ The results clearly indicate that Bumblebee has achieved remarkable progress com
 ## Demo
 
 Impressive showed by Bumblebee:
-![](https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/04/26_12_4_9_bumblebee.drawio.jpg)
+![](https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/04/26_12_14_2_bumblebee.drawio.png)
 
 
 
