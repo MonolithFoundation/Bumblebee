@@ -20,8 +20,23 @@ We have released the weights solely for research purposes, with the hope of acce
 - **Bumblebee is Fast:** With a simple **576 tokens/per** image input, it surpasses QwenVL Max in Chinese without the need for any image slicing techniques. With this limited token length, Bumblebee can be easily adapted for video understanding.
 - **Bumblebee is Evolving:** We are currently working on even more extensive and refined designs for multi-modal models. The next generation is expected to be even more powerful.
 
+## Models
+
+To download the weights, follow the link below:
+
+| Model                | MMB-CN-Test | MMB-EN-Test | Tokens/per img | Link                                                                     |
+| -------------------- | ----------- | ----------- | -------------- | ------------------------------------------------------------------------ |
+| Bumblebee (14B)      | **75.8**    | 76.8        | 576            | [huggingface](https://huggingface.co/MonolithFoundation/Bumblebee)       |
+| Bumblebee-Light (7B) | 70.5        | 71.8        | 114            | [huggingface](https://huggingface.co/MonolithFoundation/Bumblebee-Light) |
+| Qwen-VL-Plus         | 70.7        | 67          | -              |                                                                          |
+| mPLUG-Owl2.1         | 69.7        | 73.7        | 1560           |                                                                          |
+| Omini12B             | 62          | 71.7        | 1024           |                                                                          |
+
+As the table shown, **Bumblebee** series has the leastest token length among all models, but showed the strongest performance between all them.
+
 ## News
 
+- _2024.05.03_: We announced Bumblebee-Light, a 7B model surpassed mPLUG-Owl2 and OmniLLM12B model!
 - _2024.04.26_: **Bumblebee** had updated to MMBench leaderboard!
   ![](assets/board.jpg)
 - _2024.04.25_: First version **Bumblebee** droped;
@@ -60,7 +75,6 @@ The results clearly indicate that Bumblebee has achieved remarkable progress com
 Impressive Chinese results showed by Bumblebee:
 ![](assets/res.webp)
 
-
 As the result suggested, **Bumblebee** might be one of the most capable Chinese MLLM opensourced as for now.
 
 It shows good abilities at:
@@ -71,7 +85,6 @@ It shows good abilities at:
 - Math calculate;
 
 If want try it, just download our weights and inference via MGM!
-
 
 ## Future Plan
 
