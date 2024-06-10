@@ -10,6 +10,8 @@
 
 > 👷We are stressly working on the code cleaning and documentation. Stay tuned! (weights are available)
 
+> 🎉🎉BreakingNews! Bumblebee-7B-V1.5 released! We have massively changed our training strategy and model design, now it can compatible with Bunny and MiniCPM interms of similar params! Check out the weights on HuggingFace! It's just LLaVA arch now! 
+
 **Bumblebee** is a simple open-source MLLM that has surpassed QwenVL Max on MMBench-Test-CN with a score of **75.8**, using only **open-source data** and **14B LLM parameters**.
 
 Thanks to the utilization of the Qwen2 14B model, Bumblebee guarantees superior Chinese performance and outperforms any other open-source model in terms of understanding.
