@@ -47,15 +47,17 @@ As the table shown, **Bumblebee** series has the leastest token length among all
 
 Here are the metrics we have evaluated, although due to limited compute resources and time, we were unable to cover all leaderboards. However, we have focused on the metrics that are more convincing and where cheating is not possible.
 
-| Model                | MMB-CN-Test | MMB-EN-Test | MMStar(A) | MMStar(C) | MMStar(F) |
-| -------------------- | ----------- | ----------- | --------- | --------- | --------- |
-| Bumblebee-14B        | **75.8**    | 76.8        | **43.8**  | **63.2**  | **41.2**  |
-| Bumblebee-Light-7B   | 70.5        | 71.8        | 40.4      | 66.2      | 33.6      |
-| Bumblebee-Light-v1.5 | 71.4        | 73.3        | 43.9      | 68        | 40.4      |
-| QwenVL Max           | 75.7        | 77.6        | 36.5      | 46        | 27.2      |
-| Yi-VL-34B            | 70.7        | 72.4        | 40.5      | 59.2      | 34        |
-| Omini12B             | 62          | 71.7        | 39.6      | 63.6      | 32.4      |
-| GPT4V-1106           | 77          | 74.4        | 50.4      | 65.2      | 38.8      |
+| Model             | MMB-CN-Test | MMB-EN-Test | MMStar(A) | MMStar(C) | MMStar(F) |
+| ----------------- | ----------- | ----------- | --------- | --------- | --------- |
+| Bumblebee-14B     | 75.8        | 76.8        | 43.8      | 63.2      | 41.2      |
+| Bumblebee-7B-V1.0 | 70.5        | 71.8        | 40.4      | 66.2      | 33.6      |
+| Bumblebee-7B-V1.5 | **76.5**    | 77.29       | **46**    | **65.6**  | 43.2      |
+| Bunny-Llama3-8b   | 73.9        | 77          | 43.5      | -         | -         |
+| MiniCPM-Llama3    | 73.8        | **77.6**    | -         | -         | -         |
+| QwenVL Max        | 75.7        | 77.6        | 36.5      | 46        | 27.2      |
+| Yi-VL-34B         | 70.7        | 72.4        | 40.5      | 59.2      | 34        |
+| Omini12B          | 62          | 71.7        | 39.6      | 63.6      | 32.4      |
+| GPT4V-1106        | 77          | 74.4        | 50.4      | 65.2      | 38.8      |
 
 > It is worth noting that Bumblebee is an open-source model and possibly the smallest among these closed-source models.
 
