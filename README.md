@@ -24,18 +24,20 @@ We have released the weights solely for research purposes, with the hope of acce
 
 To download the weights, follow the link below:
 
-| Model                | MMB-CN-Test | MMB-EN-Test | Tokens/per img | Link                                                                     |
-| -------------------- | ----------- | ----------- | -------------- | ------------------------------------------------------------------------ |
-| Bumblebee (14B)      | **75.8**    | 76.8        | 576            | [huggingface](https://huggingface.co/MonolithFoundation/Bumblebee)       |
-| Bumblebee-Light (7B) | 70.5        | 71.8        | 114            | [huggingface](https://huggingface.co/MonolithFoundation/Bumblebee-Light) |
-| Qwen-VL-Plus         | 70.7        | 67          | -              |                                                                          |
-| mPLUG-Owl2.1         | 69.7        | 73.7        | 1560           |                                                                          |
-| Omini12B             | 62          | 71.7        | 1024           |                                                                          |
+| Model             | MMB-CN-Test | MMB-EN-Test | Tokens/per img | Link                                                                       |
+| ----------------- | ----------- | ----------- | -------------- | -------------------------------------------------------------------------- |
+| Bumblebee (14B)   | **75.8**    | 76.8        | 576            | [huggingface](https://huggingface.co/MonolithFoundation/Bumblebee)         |
+| Bumblebee-7B-V1.0 | 70.5        | 71.8        | 114            | [huggingface](https://huggingface.co/MonolithFoundation/Bumblebee-Light)   |
+| Bumblebee-7B-V1.5 | 76.5        | 77.29       | 144            | [huggingface](https://huggingface.co/MonolithFoundation/Bumblebee-7B-V1.5) |
+| Qwen-VL-Plus      | 70.7        | 67          | -              |                                                                            |
+| mPLUG-Owl2.1      | 69.7        | 73.7        | 1560           |                                                                            |
+| Omini12B          | 62          | 71.7        | 1024           |                                                                            |
 
 As the table shown, **Bumblebee** series has the leastest token length among all models, but showed the strongest performance between all them.
 
 ## News
 
+- _2024.06.10_: We announced Bumblebee-7B-V1.5! a 7B model surpassed most players with only **144** tokens per img, the traning code and weights will be release soon!
 - _2024.05.03_: We announced Bumblebee-Light, a 7B model surpassed mPLUG-Owl2 and OmniLLM12B model!
 - _2024.04.26_: **Bumblebee** had updated to MMBench leaderboard!
   ![](assets/board.jpg)
