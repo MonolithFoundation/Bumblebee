@@ -10,6 +10,21 @@
 
 > 👷We are stressly working on the code cleaning and documentation. Stay tuned! (weights are available)
 
+New in Bumblebee series:
+
+- Our Bumblebee-7B model surpassed MiniCPM-2.5 **closed to MiniCPM-2.6**, CN performance almost catch InternVL-2.5-8B, while our model with limited tokens, 576 tokens for a 768 input resolution;
+- Our Mirage-12B is the higher tier model class, **surpassed Cambrian 34B and LLaVA-Next-34B**, better than Ovis-Gemma-9B both on EN and CN, far better than WeMM, still, our model have the smallest token length in high resolution.
+
+**2024.09.05** results:
+
+![](https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/09/8_20_11_16_Tuji_20240908_201103.2894.png)
+
+We have a high position on MMBench!
+
+
+
+----------------------
+
 > 🎉🎉BreakingNews! Bumblebee-7B-V1.5 released! We have massively changed our training strategy and model design, now it can compatible with Bunny and MiniCPM interms of similar params! Check out the weights on HuggingFace! It's just LLaVA arch now! 
 
 **Bumblebee** is a simple open-source MLLM that has surpassed QwenVL Max on MMBench-Test-CN with a score of **75.8**, using only **open-source data** and **14B LLM parameters**.
