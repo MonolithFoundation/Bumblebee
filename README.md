@@ -3,7 +3,7 @@
 <h1>Bumblebee</h1>
 <h3>Surpassed Close-Source Models: A Breakthrough in Open-Source Advancements</h3>
 <p align="center">
-  weights  <a href="https://huggingface.co/MonolithFoundation/Bumblebee">🤗</a> | <a href="https://github.com/MonolithFoundation/Bumblebee/issues/1"> wechat group </a> | <a href="https://github.com/MonolithFoundation/Bumblebee"> code </a>
+    <a href="https://huggingface.co/MonolithFoundation/Bumblebee">7B 🤗</a> | <a href="https://huggingface.co/MonolithFoundation/Mirage-12B">12B 🤗</a>| <a href="https://github.com/MonolithFoundation/Bumblebee/issues/1"> wechat group </a> | <a href="https://github.com/MonolithFoundation/Bumblebee"> code </a>
 </p>
 
 </div>
