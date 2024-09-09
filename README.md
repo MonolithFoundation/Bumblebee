@@ -17,7 +17,7 @@ New in Bumblebee series:
 
 **2024.09.05** results:
 
-![](https://gitcode.net/godofgodofgod/gerg/-/raw/main/pictures/2024/09/8_20_11_16_Tuji_20240908_201103.2894.png)
+![](assets/8_20_11_16_Tuji_20240908_201103.2894.png)
 
 We have a high position on MMBench!
 
